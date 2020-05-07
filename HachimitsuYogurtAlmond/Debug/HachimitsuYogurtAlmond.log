@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  HachimitsuYogurtAlmond.vcxproj -> C:\Users\telle\source\repos\HachimitsuYogurtAlmond\Debug\HachimitsuYogurtAlmond.exe
+D:\vs2020\HachimitsuYogurtAlmond\HachimitsuYogurtAlmond\main.cpp(90,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+LINK : fatal error LNK1168: ファイル D:\vs2020\HachimitsuYogurtAlmond\Debug\HachimitsuYogurtAlmond.exe を開いて書き込むことができません。

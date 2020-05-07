@@ -1,0 +1,10 @@
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\bin\Debug\DisplayBoard.exe.config
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\bin\Debug\DisplayBoard.exe
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\bin\Debug\DisplayBoard.pdb
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.csprojAssemblyReference.cache
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.Properties.Resources.resources
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.csproj.GenerateResource.cache
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.csproj.CoreCompileInputs.cache
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.exe
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.pdb
+D:\vs2020\HachimitsuYogurtAlmond\DisplayBoard\obj\Debug\DisplayBoard.Form1.resources
